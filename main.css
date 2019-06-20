@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+.header-top{
+    height: 100px;
+    background: #272f54;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.logo{
+    padding-top: 20px;
+    max-width: 100px;
+}
+nav{
+    height: 50px;
+    background: #272f54;
+    margin-bottom: 10px;
+}
+.banner{
+    margin-bottom: 15px;
+}
+.content{
+    margin-bottom: 20px;
+}
+.row{
+    margin-bottom: 15px;
+}
+
+footer{
+    background: #272f54;
+    text-align: center;
+    height: 50px;
+}
+.footer_title {
+    padding-top: 15px;
+}
+.footer_title p{
+    color: wheat;
+}
